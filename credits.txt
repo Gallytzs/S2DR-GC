@@ -6,8 +6,7 @@ Gally
 
 Sprites:
 
-Hojmog
-Deerboi 
+Hojmog 
 Jotsuke Music
 Tainted Launixen
 jorgeland59
